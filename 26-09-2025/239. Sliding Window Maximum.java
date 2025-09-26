@@ -34,13 +34,5 @@ class Solution {
 //Space Complexity:O(n)
 
 
-/* Case 1: 
-    int[] nums1 = {1,3,-1,-3,5,3,6,7};
-    int k = 3;
-    Expected: [3,3,5,5,6,7]*/
 
-/* Case 2: 
-    int[] nums1 = {1};
-    int k = 1;
-    Expected: [1]*/
 
